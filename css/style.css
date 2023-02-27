@@ -21,3 +21,6 @@ header, #bottom-footer{
 #hero, #about-us{
     background-color: var(--aqua);
 }
+#portfolio, #contacts{
+    background-color: var(--white)
+}
