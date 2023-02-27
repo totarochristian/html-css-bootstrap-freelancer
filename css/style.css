@@ -2,7 +2,7 @@
 /**************************** Variables definition ****************************/
 /******************************************************************************/
 :root{
-    --dark-grey: #2c3e50;
+    --dark-gray: #2c3e50;
     --aqua: #1abc9c;
     --white: #ffffff;
     --light-gray: #3a546d;
@@ -14,4 +14,7 @@
 /*****************************************************************/
 body{
     background-color: var(--white);
+}
+header, #bottom-footer{
+    background-color: var(--dark-gray);
 }
