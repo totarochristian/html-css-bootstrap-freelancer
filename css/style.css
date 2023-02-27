@@ -15,6 +15,9 @@
 body{
     color: var(--white);
 }
+.ct-max-width-1200px{
+    max-width: 1200px;
+}
 header nav, #bottom-footer{
     background-color: var(--dark-gray);
 }
