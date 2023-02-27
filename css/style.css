@@ -24,3 +24,6 @@ header, #bottom-footer{
 #portfolio, #contacts{
     background-color: var(--white)
 }
+#top-footer{
+    background-color: var(--light-gray);
+}
