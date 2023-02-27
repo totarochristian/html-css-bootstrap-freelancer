@@ -15,7 +15,7 @@
 body{
     color: var(--white);
 }
-header, #bottom-footer{
+header nav, #bottom-footer{
     background-color: var(--dark-gray);
 }
 #hero, #about-us{
