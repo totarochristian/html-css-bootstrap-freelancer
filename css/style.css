@@ -34,9 +34,9 @@ header nav, #bottom-footer{
 hr{
     opacity: 1;
 }
-#hero hr{
+#hero hr, #about-us hr{
     border: 2px solid var(--white);
 }
-#portfolio hr{
+#portfolio hr, #contacts hr{
     border: 2px solid var(--black);
 }
