@@ -13,7 +13,7 @@
 /**************************** General ****************************/
 /*****************************************************************/
 body{
-    background-color: var(--white);
+    color: var(--white);
 }
 header, #bottom-footer{
     background-color: var(--dark-gray);
