@@ -22,7 +22,8 @@ header, #bottom-footer{
     background-color: var(--aqua);
 }
 #portfolio, #contacts{
-    background-color: var(--white)
+    background-color: var(--white);
+    color: var(--black);
 }
 #top-footer{
     background-color: var(--light-gray);
