@@ -31,3 +31,7 @@ header nav, #bottom-footer{
 #top-footer{
     background-color: var(--light-gray);
 }
+hr{
+    border: 2px solid white;
+    opacity: 1;
+}
